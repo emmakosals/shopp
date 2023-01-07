@@ -9,6 +9,7 @@ export default function Header() {
               <li>О нас</li>
               <li>Контакты</li>
               <li>Личный кабинет</li>
+              <li>Жопа</li>
             </ul>
         </div>
         <div className='presentation'></div>
